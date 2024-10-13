@@ -1,4 +1,4 @@
-# Endless-Runner
+# Totally Tubular
 
 This game requires the user to avoid birds, bourys and sharks that will try to attack the player
 This game is contorlled using the W,S or up and down arrow keys
