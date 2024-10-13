@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Border
+  - Bird
+  - Coin
+  - GameManager
+  - Shark
+  - Bouy
   layers:
   - Default
   - TransparentFX
